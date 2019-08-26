@@ -1,0 +1,730 @@
+﻿'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Phot\MVP\BUOnboardingTask\BUOnboardingTask\bin\Debug\netcoreapp2.2\BUOnboardingTask.dll'. Symbols loaded.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Hosting.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\netstandard.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Hosting.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Configuration.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.DependencyInjection.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Hosting.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.FileProviders.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Collections.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Configuration.EnvironmentVariables.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Threading.Tasks.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Runtime.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Configuration.CommandLine.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Server.Kestrel.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Server.Kestrel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Logging.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Server.IIS.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Runtime.InteropServices.RuntimeInformation.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Server.IISIntegration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.DependencyInjection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.ComponentModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Logging.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Http.Features.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Diagnostics.DiagnosticSource.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Http.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Http.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.ObjectPool.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Mvc.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Razor.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Resources.ResourceManager.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.IO.FileSystem.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.FileProviders.Physical.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Runtime.InteropServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Configuration.FileExtensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Configuration.Json.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Configuration.UserSecrets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.IO.FileSystem.Watcher.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.ComponentModel.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Collections.Concurrent.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.FileSystemGlobbing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Threading.Timer.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Diagnostics.Tracing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Threading.Overlapped.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Newtonsoft.Json.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Linq.Expressions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.ComponentModel.TypeConverter.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.ObjectModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Options.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Logging.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Options.ConfigurationExtensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Logging.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Logging.Debug.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Logging.EventSource.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.HostFiltering.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.HttpOverrides.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Authentication.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Authentication.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Security.Claims.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Phot\.nuget\packages\automapper\9.0.0\lib\netstandard2.0\AutoMapper.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Phot\.nuget\packages\automapper.extensions.microsoft.dependencyinjection\7.0.0\lib\netstandard2.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Mvc.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Mvc.Formatters.Json.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.EntityFrameworkCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.SpaServices.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Mvc.RazorPages.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Mvc.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.DependencyModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Reflection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.AppContext.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.IO.FileSystem.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.IO.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Runtime.Numerics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Private.Uri.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Phot\MVP\BUOnboardingTask\BUOnboardingTask\bin\Debug\netcoreapp2.2\BUOnboardingTask.Views.dll'. Symbols loaded.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Mvc.Razor.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Identity.UI.Views.V3.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Identity.UI.Views.V4.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Identity.UI.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Identity.UI.Views.V3.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Identity.UI.Views.V4.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.SpaServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Routing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Routing.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Buffers.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Mvc.ApiExplorer.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Authorization.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Authorization.Policy.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Mvc.TagHelpers.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Razor.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Mvc.ViewFeatures.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Mvc.DataAnnotations.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.DataProtection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.DataProtection.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Cryptography.Internal.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Antiforgery.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Verbose logs are written to:
+C:\Users\Phot\AppData\Local\Temp\vscode-chrome-debug.txt
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.WebEncoders.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\System.Text.Encodings.Web.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.CodeAnalysis.Razor.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Razor.Language.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.CodeAnalysis.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Caching.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Caching.Memory.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Mvc.Cors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Cors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'Anonymously Hosted DynamicMethods Assembly'. 
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Threading.Thread.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Configuration.Binder.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Memory.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Connections.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Net.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\System.IO.Pipelines.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\Microsoft.Win32.Registry.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Xml.XDocument.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Private.Xml.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Private.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Diagnostics.Debug.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Security.Cryptography.Algorithms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Text.Encoding.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Text.RegularExpressions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Reflection.Emit.ILGeneration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Reflection.Emit.Lightweight.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Reflection.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Diagnostics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.HttpsPolicy.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.StaticFiles.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Extensions.Localization.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.JsonPatch.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.Net.Http.Headers.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Collections.Specialized.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Drawing.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Collections.Immutable.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Security.Cryptography.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Security.Principal.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Runtime.Serialization.Formatters.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Authentication.Cookies.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Authentication.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Html.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.CodeAnalysis.CSharp.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Diagnostics.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.ComponentModel.Annotations.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Net.Sockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Net.NameResolution.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Diagnostics.Process.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Threading.ThreadPool.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.WebSockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Net.Http.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Net.Security.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Security.Cryptography.X509Certificates.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Numerics.Vectors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\System.Runtime.CompilerServices.Unsafe.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.Http.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Threading.Tasks.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.EntityFrameworkCore.SqlServer.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.EntityFrameworkCore.Relational.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Data.Common.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.EntityFrameworkCore.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Remotion.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Transactions.Local.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\System.Interactive.Async.dll'. Symbols loaded.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Linq.Queryable.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Reflection.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\System.Data.SqlClient.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Security.Principal.Windows.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\System.Text.Encoding.CodePages.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Xml.ReaderWriter.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\Microsoft.AspNetCore.WebUtilities.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Runtime.Serialization.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Diagnostics.TraceSource.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Net.WebSockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\Microsoft.Win32.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.SpaServices:Information: Compiled with warnings.
+
+Microsoft.AspNetCore.SpaServices:Information: 
+./src/components/Stores.jsx
+
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 2054.4705ms 200 text/html; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/static/js/bundle.js  
+The thread 0x4dac has exited with code 0 (0x0).
+ReferenceError: $ is not defined
+    at https://localhost:44318/:41:9
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 1322.2286ms 200 application/javascript; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/static/js/bundle.js.map  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 240.839ms 200 application/json; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/sockjs-node/info?t=1566819066679  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 40.2571ms 200 application/json; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/sockjs-node/340/oc41ygk1/websocket  
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Net.WebSockets.Client.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.2.6\System.Net.WebHeaderCollection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+[0;1mDownload the React DevTools for a better development experience: https://fb.me/react-devtools
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/manifest.json  
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 21.8037ms 200 application/json; charset=UTF-8
+WebSocket connection to 'wss://localhost:44318/sockjs-node/340/oc41ygk1/websocket' failed: WebSocket is closed before the connection is established.
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 POST http://localhost:44318/sockjs-node/340/jpr5jijw/xhr_streaming?t=1566819067647  0
+./src/components/Stores.jsx
+  Line 1:  'Component' is defined but never used  no-unused-vars
+./src/components/Products.jsx
+  Line 1:  'Component' is defined but never used  no-unused-vars
+./src/components/Sales.jsx
+  Line 1:  'Component' is defined but never used  no-unused-vars
+  Line 3:  '_' is defined but never used          no-unused-vars
+./src/components/common/validation.js
+  Line 1:  'React' is defined but never used  no-unused-vars
+./src/components/CustomerModalForm.jsx
+  Line 2:  'Icon' is defined but never used  no-unused-vars
+'dotnet.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\2.2.6\System.Net.WebSockets.WebSocketProtocol.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 2412.4412ms 101 
+Warning: Failed prop type: Invalid prop `centered` of type `string` supplied to `Modal`, expected `boolean`.
+    in Modal (at SalesModalForm.js:34)
+    in ModalSalesForm (at Sales.jsx:288)
+    in div (at Sales.jsx:272)
+    in Sales (created by Route)
+    in Route (at App.js:20)
+    in Switch (at App.js:17)
+    in div (created by Container)
+    in Container (at Layout.js:12)
+    in div (at Layout.js:10)
+    in Layout (at App.js:16)
+    in App (at index.js:13)
+    in Router (created by BrowserRouter)
+    in BrowserRouter (at index.js:12)
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/api/Sales  
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "GetSales", controller = "Sales", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[BUOnboardingTask.Models.Sales]]] GetSales() on controller BUOnboardingTask.Controllers.SalesController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[CustomerId], [s].[DateSold], [s].[ProductId], [s].[StoreId], [s.Store].[Id], [s.Store].[Address], [s.Store].[Name], [s.Product].[Id], [s.Product].[Name], [s.Product].[Price], [s.Customer].[Id], [s.Customer].[Address], [s.Customer].[Name]
+FROM [Sales] AS [s]
+INNER JOIN [Store] AS [s.Store] ON [s].[StoreId] = [s.Store].[Id]
+INNER JOIN [Product] AS [s.Product] ON [s].[ProductId] = [s.Product].[Id]
+INNER JOIN [Customer] AS [s.Customer] ON [s].[CustomerId] = [s.Customer].[Id]
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 51.5816ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[BUOnboardingTask.Models.Sales, BUOnboardingTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask) in 93.5104ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 139.0511ms 200 application/json; charset=utf-8
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Warning: Each child in an array or iterator should have a unique "key" prop.
+
+Check the render method of `HeaderBody`. See https://fb.me/react-warning-keys for more information.
+    in TableRow (at tableBody.jsx:35)
+    in HeaderBody (at table.jsx:11)
+    in table (created by Table)
+    in Table (at table.jsx:9)
+    in DataTable (at SalesTable.jsx:38)
+    in SalesTable (at Sales.jsx:280)
+    in div (at Sales.jsx:272)
+    in Sales (created by Route)
+    in Route (at App.js:18)
+    in Switch (at App.js:17)
+    in div (created by Container)
+    in Container (at Layout.js:12)
+    in div (at Layout.js:10)
+    in Layout (at App.js:16)
+    in App (at index.js:13)
+    in Router (created by BrowserRouter)
+    in BrowserRouter (at index.js:12)
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/api/Customers  
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "GetCustomer", controller = "Customers", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[BUOnboardingTask.Dtos.CustomerDto]]] GetCustomer() on controller BUOnboardingTask.Controllers.CustomersController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [dtoCustomer].[Address], [dtoCustomer].[Id], [dtoCustomer].[Name]
+FROM [Customer] AS [dtoCustomer]
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 26.1248ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[BUOnboardingTask.Dtos.CustomerDto, BUOnboardingTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask) in 50.4163ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 95.0977ms 200 application/json; charset=utf-8
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/api/Products  
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "GetProduct", controller = "Products", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[BUOnboardingTask.Models.Product]]] GetProduct() on controller BUOnboardingTask.Controllers.ProductsController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Name], [p].[Price]
+FROM [Product] AS [p]
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 33.555ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[BUOnboardingTask.Models.Product, BUOnboardingTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask) in 72.7695ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 149.7362ms 200 application/json; charset=utf-8
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/static/media/icons.af7ae505.woff2  
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/api/Stores  
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "GetStore", controller = "Stores", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[BUOnboardingTask.Models.Store]]] GetStore() on controller BUOnboardingTask.Controllers.StoresController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[Address], [s].[Name]
+FROM [Store] AS [s]
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 40.6652ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[BUOnboardingTask.Models.Store, BUOnboardingTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask) in 70.3406ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 124.2323ms 200 application/json; charset=utf-8
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 2111.4664ms 200 font/woff2; charset=UTF-8
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Warning: Failed prop type: Invalid prop `disabled` of type `string` supplied to `Button`, expected `boolean`.
+    in Button (at button.jsx:7)
+    in ButtonCustom (at SalesModalForm.js:64)
+    in div (created by ModalActions)
+    in ModalActions (at SalesModalForm.js:58)
+    in div (created by Modal)
+    in RefFindNode (created by Ref)
+    in Ref (created by Modal)
+    in div (created by Modal)
+    in RefFindNode (created by Ref)
+    in Ref (created by PortalInner)
+    in PortalInner (created by Portal)
+    in Portal (created by Modal)
+    in Modal (at SalesModalForm.js:34)
+    in ModalSalesForm (at Sales.jsx:288)
+    in div (at Sales.jsx:272)
+    in Sales (created by Route)
+    in Route (at App.js:18)
+    in Switch (at App.js:17)
+    in div (created by Container)
+    in Container (at Layout.js:12)
+    in div (at Layout.js:10)
+    in Layout (at App.js:16)
+    in App (at index.js:13)
+    in Router (created by BrowserRouter)
+    in BrowserRouter (at index.js:12)
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+The thread 0x4da4 has exited with code 0 (0x0).
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+The thread 0x4e70 has exited with code 0 (0x0).
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 POST http://localhost:44318/api/Sales application/json;charset=UTF-8 67
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.SalesController.PostSales (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "PostSales", controller = "Sales", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[BUOnboardingTask.Models.Sales]] PostSales(BUOnboardingTask.Models.Sales) on controller BUOnboardingTask.Controllers.SalesController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.SalesController.PostSales (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (20ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Sales] ([CustomerId], [DateSold], [ProductId], [StoreId])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [Sales]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.SalesController.PostSales (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.CreatedAtActionResult in 62.6254ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'BUOnboardingTask.Models.Sales'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.SalesController.PostSales (BUOnboardingTask) in 84.3145ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.SalesController.PostSales (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 132.1981ms 201 application/json; charset=utf-8
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/api/Customers  
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "GetCustomer", controller = "Customers", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[BUOnboardingTask.Dtos.CustomerDto]]] GetCustomer() on controller BUOnboardingTask.Controllers.CustomersController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [dtoCustomer].[Address], [dtoCustomer].[Id], [dtoCustomer].[Name]
+FROM [Customer] AS [dtoCustomer]
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 25.498ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[BUOnboardingTask.Dtos.CustomerDto, BUOnboardingTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask) in 48.571ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 88.2347ms 200 application/json; charset=utf-8
+David Carter
+Thailand
+Justin Pham
+Australia
+Thomas Lee
+Chaina
+John Smiths
+Greece
+Shannon Walkerss
+Stoke
+Jack 
+Johnson
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/api/Sales  
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "GetSales", controller = "Sales", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[BUOnboardingTask.Models.Sales]]] GetSales() on controller BUOnboardingTask.Controllers.SalesController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[CustomerId], [s].[DateSold], [s].[ProductId], [s].[StoreId], [s.Store].[Id], [s.Store].[Address], [s.Store].[Name], [s.Product].[Id], [s.Product].[Name], [s.Product].[Price], [s.Customer].[Id], [s.Customer].[Address], [s.Customer].[Name]
+FROM [Sales] AS [s]
+INNER JOIN [Store] AS [s.Store] ON [s].[StoreId] = [s.Store].[Id]
+INNER JOIN [Product] AS [s.Product] ON [s].[ProductId] = [s.Product].[Id]
+INNER JOIN [Customer] AS [s.Customer] ON [s].[CustomerId] = [s.Customer].[Id]
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 26.4541ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[BUOnboardingTask.Models.Sales, BUOnboardingTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask) in 47.6539ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 84.4341ms 200 application/json; charset=utf-8
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/api/Customers  
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "GetCustomer", controller = "Customers", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[BUOnboardingTask.Dtos.CustomerDto]]] GetCustomer() on controller BUOnboardingTask.Controllers.CustomersController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [dtoCustomer].[Address], [dtoCustomer].[Id], [dtoCustomer].[Name]
+FROM [Customer] AS [dtoCustomer]
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 23.5987ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[BUOnboardingTask.Dtos.CustomerDto, BUOnboardingTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask) in 49.9513ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 94.775ms 200 application/json; charset=utf-8
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/api/Products  
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "GetProduct", controller = "Products", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[BUOnboardingTask.Models.Product]]] GetProduct() on controller BUOnboardingTask.Controllers.ProductsController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Name], [p].[Price]
+FROM [Product] AS [p]
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 27.408ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[BUOnboardingTask.Models.Product, BUOnboardingTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask) in 55.9502ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 94.4421ms 200 application/json; charset=utf-8
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/api/Stores  
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "GetStore", controller = "Stores", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[BUOnboardingTask.Models.Store]]] GetStore() on controller BUOnboardingTask.Controllers.StoresController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[Address], [s].[Name]
+FROM [Store] AS [s]
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 24.6023ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[BUOnboardingTask.Models.Store, BUOnboardingTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask) in 59.6205ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 118.2745ms 200 application/json; charset=utf-8
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+The thread 0x70c has exited with code 0 (0x0).
+John Smiths
+Nokia KX8
+Store 2
+6 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 PUT http://localhost:44318/api/Sales/26 application/json;charset=UTF-8 78
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.SalesController.PutSales (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "PutSales", controller = "Sales", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PutSales(Int32, BUOnboardingTask.Models.Sales) on controller BUOnboardingTask.Controllers.SalesController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.SalesController.PutSales (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (3ms) [Parameters=[@p4='?' (DbType = Int32), @p0='?' (DbType = Int32), @p1='?' (DbType = DateTime), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Sales] SET [CustomerId] = @p0, [DateSold] = @p1, [ProductId] = @p2, [StoreId] = @p3
+WHERE [Id] = @p4;
+SELECT @@ROWCOUNT;
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.SalesController.PutSales (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.NoContentResult in 29.526ms.
+Microsoft.AspNetCore.Mvc.StatusCodeResult:Information: Executing HttpStatusCodeResult, setting HTTP status code 204
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.SalesController.PutSales (BUOnboardingTask) in 55.7127ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.SalesController.PutSales (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 97.2082ms 204 
+John Smiths
+TV and Video
+dkigfkg
+1 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/api/Customers  
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "GetCustomer", controller = "Customers", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[BUOnboardingTask.Dtos.CustomerDto]]] GetCustomer() on controller BUOnboardingTask.Controllers.CustomersController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [dtoCustomer].[Address], [dtoCustomer].[Id], [dtoCustomer].[Name]
+FROM [Customer] AS [dtoCustomer]
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 20.8822ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[BUOnboardingTask.Dtos.CustomerDto, BUOnboardingTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask) in 39.4097ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 72.4478ms 200 application/json; charset=utf-8
+David Carter
+Thailand
+Justin Pham
+Australia
+Thomas Lee
+Chaina
+John Smiths
+Greece
+Shannon Walkerss
+Stoke
+Jack 
+Johnson
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/api/Sales  
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "GetSales", controller = "Sales", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[BUOnboardingTask.Models.Sales]]] GetSales() on controller BUOnboardingTask.Controllers.SalesController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[CustomerId], [s].[DateSold], [s].[ProductId], [s].[StoreId], [s.Store].[Id], [s.Store].[Address], [s.Store].[Name], [s.Product].[Id], [s.Product].[Name], [s.Product].[Price], [s.Customer].[Id], [s.Customer].[Address], [s.Customer].[Name]
+FROM [Sales] AS [s]
+INNER JOIN [Store] AS [s.Store] ON [s].[StoreId] = [s.Store].[Id]
+INNER JOIN [Product] AS [s.Product] ON [s].[ProductId] = [s.Product].[Id]
+INNER JOIN [Customer] AS [s.Customer] ON [s].[CustomerId] = [s.Customer].[Id]
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 24.5824ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[BUOnboardingTask.Models.Sales, BUOnboardingTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask) in 47.0971ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.SalesController.GetSales (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 87.21ms 200 application/json; charset=utf-8
+John Smiths
+TV and Video
+dkigfkg
+1 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/api/Customers  
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "GetCustomer", controller = "Customers", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[BUOnboardingTask.Dtos.CustomerDto]]] GetCustomer() on controller BUOnboardingTask.Controllers.CustomersController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [dtoCustomer].[Address], [dtoCustomer].[Id], [dtoCustomer].[Name]
+FROM [Customer] AS [dtoCustomer]
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 28.2294ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[BUOnboardingTask.Dtos.CustomerDto, BUOnboardingTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask) in 49.3979ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.CustomersController.GetCustomer (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 100.2021ms 200 application/json; charset=utf-8
+John Smiths
+TV and Video
+dkigfkg
+1 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/api/Products  
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "GetProduct", controller = "Products", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[BUOnboardingTask.Models.Product]]] GetProduct() on controller BUOnboardingTask.Controllers.ProductsController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Name], [p].[Price]
+FROM [Product] AS [p]
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 31.9125ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[BUOnboardingTask.Models.Product, BUOnboardingTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask) in 53.819ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.ProductsController.GetProduct (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 93.3568ms 200 application/json; charset=utf-8
+John Smiths
+TV and Video
+dkigfkg
+1 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request starting HTTP/1.1 GET http://localhost:44318/api/Stores  
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executing endpoint 'BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask)'
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Route matched with {action = "GetStore", controller = "Stores", page = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[BUOnboardingTask.Models.Store]]] GetStore() on controller BUOnboardingTask.Controllers.StoresController (BUOnboardingTask).
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executing action method BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask) - Validation state: Valid
+Microsoft.EntityFrameworkCore.Infrastructure:Information: Entity Framework Core 2.2.6-servicing-10079 initialized 'BUOnboardingTaskContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (30ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[Address], [s].[Name]
+FROM [Store] AS [s]
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action method BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 56.1944ms.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor:Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[BUOnboardingTask.Models.Store, BUOnboardingTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker:Information: Executed action BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask) in 78.2086ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware:Information: Executed endpoint 'BUOnboardingTask.Controllers.StoresController.GetStore (BUOnboardingTask)'
+Microsoft.AspNetCore.Hosting.Internal.WebHost:Information: Request finished in 124.6984ms 200 application/json; charset=utf-8
+John Smiths
+TV and Video
+dkigfkg
+1 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+John Smiths
+TV and Video
+dkigfkg
+1 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+John Smiths
+TV and Video
+dkigfkg
+1 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+John Smiths
+TV and Video
+dkigfkg
+1 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+John Smiths
+TV and Video
+dkigfkg
+1 Aug, 2019
+Justin Pham
+Sumsung Galaxy Mate10
+Store 2
+8 Aug, 2019
+The thread 0x4f78 has exited with code 0 (0x0).
+The thread 0x2078 has exited with code 0 (0x0).
+The thread 0x4e58 has exited with code 0 (0x0).
+The thread 0x440c has exited with code 0 (0x0).
+The thread 0x2c84 has exited with code 0 (0x0).

@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: BUOnboardingTask, Configuration: Debug Any CPU ------
+1>BUOnboardingTask -> C:\Users\Phot\MVP\BUOnboardingTask\BUOnboardingTask\bin\Debug\netcoreapp2.2\BUOnboardingTask.dll
+1>BUOnboardingTask -> C:\Users\Phot\MVP\BUOnboardingTask\BUOnboardingTask\bin\Debug\netcoreapp2.2\BUOnboardingTask.Views.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
